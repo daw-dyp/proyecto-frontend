@@ -6,6 +6,12 @@
   Ramas trabajadas: feature-pagina-contacto, develop  
   Referencias consultadas: MDN Web Docs, documentación oficial React
 
+  - Nombre completo: Daniela Carrillo
+  Usuario GitHub: @Danidelaosa
+  Rol: Desarrollador  
+  Ramas trabajadas: feature-pagina-contacto, develop  
+  Referencias consultadas: MDN Web Docs, documentación oficial React
+
 # Frontend - Proyecto Web
 
 Este es el frontend básico de la aplicación.
