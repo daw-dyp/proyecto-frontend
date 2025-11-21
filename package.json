@@ -1,0 +1,12 @@
+{
+  "name": "frontend-proyecto-web",
+  "version": "1.0.0",
+  "description": "Frontend básico de un proyecto web.",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
